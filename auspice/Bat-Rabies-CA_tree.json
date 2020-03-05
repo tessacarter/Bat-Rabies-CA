@@ -1,0 +1,3261 @@
+{
+  "aa_muts": {},
+  "attr": {
+    "clock_length": 0.001,
+    "country": "Zimbabwe",
+    "country_confidence": {
+      "Canada": 0.4009142019027218,
+      "Zimbabwe": 0.5990857980972784
+    },
+    "country_entropy": 0.6733806032442302,
+    "date": "1607-05-01",
+    "div": 0,
+    "num_date": 1607.3325810931217,
+    "num_date_confidence": [
+      -4714.660759201198,
+      1990.9108431786601
+    ]
+  },
+  "branch_length": 0.001,
+  "children": [
+    {
+      "aa_muts": {},
+      "attr": {
+        "clock_length": 0.022528708829596816,
+        "country": "Zimbabwe",
+        "country_confidence": {
+          "Canada": 0.08058297725629579,
+          "Zimbabwe": 0.9194170227437042
+        },
+        "country_entropy": 0.28019090079375525,
+        "date": "1706-02-28",
+        "div": 0.025059669340735197,
+        "num_date": 1706.161538207162,
+        "num_date_confidence": [
+          -3005.2696788879566,
+          1990.9463553246474
+        ]
+      },
+      "branch_length": 0.02252871,
+      "children": [
+        {
+          "aa_muts": {
+            "RABVgp1": [
+              "D2E",
+              "D88N",
+              "L108I",
+              "V116I",
+              "V379M",
+              "A380V",
+              "R448K"
+            ]
+          },
+          "attr": {
+            "accession": "KY553266",
+            "clock_length": 0.06493141926044493,
+            "country": "Zimbabwe",
+            "country_confidence": {
+              "Zimbabwe": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "1991-01-01",
+            "div": 0.08732029957314409,
+            "host": "Civet (Civettictis civetta)",
+            "num_date": 1991.002737850787,
+            "num_date_confidence": [
+              1991.002737850787,
+              1991.8996577686514
+            ],
+            "raw_date": "1991-XX-XX"
+          },
+          "branch_length": 0.06493142,
+          "clade": 0,
+          "muts": [
+            "T18A",
+            "A39G",
+            "T48C",
+            "G51A",
+            "T60C",
+            "C61T",
+            "G81T",
+            "T105C",
+            "C129T",
+            "C189T",
+            "C252T",
+            "T255C",
+            "G274A",
+            "C295T",
+            "G297A",
+            "C321T",
+            "C334A",
+            "A342G",
+            "G358A",
+            "A426G",
+            "G453A",
+            "A477C",
+            "T513C",
+            "G534A",
+            "T546C",
+            "C585T",
+            "A588G",
+            "C621T",
+            "C633T",
+            "C639T",
+            "T669C",
+            "G672C",
+            "T675C",
+            "G690A",
+            "T699A",
+            "T711C",
+            "C717T",
+            "A723T",
+            "G735A",
+            "T738C",
+            "A756G",
+            "C763T",
+            "C765A",
+            "T768C",
+            "A786G",
+            "C795T",
+            "G801A",
+            "C804T",
+            "A813G",
+            "A820C",
+            "A825G",
+            "G840A",
+            "A852G",
+            "T927G",
+            "T963C",
+            "A981G",
+            "G996C",
+            "T999C",
+            "C1005T",
+            "A1068G",
+            "G1080A",
+            "C1092T",
+            "A1116G",
+            "G1125T",
+            "A1137G",
+            "T1143A",
+            "G1147A",
+            "C1151T",
+            "T1153C",
+            "T1185C",
+            "C1191T",
+            "C1194T",
+            "T1200G",
+            "A1206G",
+            "C1209T",
+            "T1215C",
+            "G1218T",
+            "T1284C",
+            "C1287T",
+            "A1290C",
+            "A1308G",
+            "A1323T",
+            "C1326T",
+            "T1329C",
+            "A1347C",
+            "G1353T",
+            "G1355A"
+          ],
+          "strain": "KY553266",
+          "yvalue": 44
+        },
+        {
+          "aa_muts": {
+            "RABVgp1": [
+              "S40C",
+              "T123A",
+              "V179I"
+            ]
+          },
+          "attr": {
+            "clock_length": 0.05246270065862378,
+            "country": "Zimbabwe",
+            "country_confidence": {
+              "Zimbabwe": 0.9995710994041793
+            },
+            "country_entropy": 0.00375462622127734,
+            "date": "1936-04-21",
+            "div": 0.07936471036922496,
+            "num_date": 1936.3049535575506,
+            "num_date_confidence": [
+              1005.6897722816589,
+              1990.981517939186
+            ]
+          },
+          "branch_length": 0.0524627,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "accession": "KY553265",
+                "clock_length": 0.01224076204447732,
+                "country": "Zimbabwe",
+                "country_confidence": {
+                  "Zimbabwe": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "1990-01-01",
+                "div": 0.09357771520286683,
+                "host": "Civet (Civettictis civetta)",
+                "num_date": 1990.002737850787,
+                "num_date_confidence": [
+                  1990.002737850787,
+                  1990.8996577686514
+                ],
+                "raw_date": "1990-XX-XX"
+              },
+              "branch_length": 0.01224076,
+              "clade": 1,
+              "muts": [
+                "A33G",
+                "C57T",
+                "A72G",
+                "T300C",
+                "G303C",
+                "C321T",
+                "T351C",
+                "T430C",
+                "T450C",
+                "T571C",
+                "C670T",
+                "C693A",
+                "G726A",
+                "G732A",
+                "A741T",
+                "T762C",
+                "T867C",
+                "A1065G",
+                "A1116G",
+                "C1299T"
+              ],
+              "strain": "KY553265",
+              "yvalue": 43
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "accession": "KY553267",
+                "clock_length": 0.012696675159164963,
+                "country": "Zimbabwe",
+                "country_confidence": {
+                  "Zimbabwe": 0.9999999999999999
+                },
+                "country_entropy": -9.99866855976916e-13,
+                "date": "1992-01-01",
+                "div": 0.0907101881138076,
+                "host": "Civet (Civettictis civetta)",
+                "num_date": 1992.002737850787,
+                "num_date_confidence": [
+                  1992.002737850787,
+                  1992.9017596661151
+                ],
+                "raw_date": "1992-XX-XX"
+              },
+              "branch_length": 0.01269668,
+              "clade": 2,
+              "muts": [
+                "C61T",
+                "C111T",
+                "C129A",
+                "G366A",
+                "G672A",
+                "G735A",
+                "A756G",
+                "A777G",
+                "C798T",
+                "T1011C",
+                "T1062C",
+                "G1080A",
+                "T1128G",
+                "C1173T",
+                "T1248C"
+              ],
+              "strain": "KY553267",
+              "yvalue": 42
+            }
+          ],
+          "clade": 3,
+          "muts": [
+            "C117T",
+            "G123A",
+            "A130T",
+            "A144G",
+            "A147G",
+            "G174A",
+            "T181C",
+            "A183G",
+            "G204A",
+            "T207A",
+            "C210T",
+            "T213C",
+            "T270G",
+            "A303G",
+            "C304A",
+            "G306A",
+            "A327G",
+            "T336A",
+            "A348G",
+            "T369C",
+            "A379G",
+            "G384A",
+            "G480A",
+            "C489T",
+            "T492C",
+            "G498A",
+            "C507T",
+            "G547A",
+            "C549T",
+            "G552A",
+            "A561G",
+            "T564C",
+            "T570C",
+            "G573A",
+            "C618T",
+            "C627T",
+            "C628T",
+            "A630G",
+            "C702T",
+            "G714A",
+            "C720T",
+            "A759C",
+            "A774G",
+            "A810G",
+            "T837A",
+            "C864T",
+            "G888A",
+            "C892T",
+            "C906A",
+            "A918G",
+            "C942T",
+            "T978C",
+            "T1044C",
+            "G1056A",
+            "T1059C",
+            "G1074A",
+            "T1077C",
+            "G1113A",
+            "T1119C",
+            "A1134G",
+            "C1170T",
+            "T1176C",
+            "T1200C",
+            "G1218A",
+            "T1227C",
+            "T1233C",
+            "C1234A",
+            "C1239A",
+            "A1269G",
+            "A1276C",
+            "T1311C",
+            "C1317A",
+            "C1336T"
+          ],
+          "strain": "NODE_0000019",
+          "yvalue": 42.5
+        }
+      ],
+      "clade": 4,
+      "muts": [],
+      "strain": "NODE_0000017",
+      "yvalue": 43.25
+    },
+    {
+      "aa_muts": {
+        "RABVgp1": [
+          "V56I",
+          "T84A",
+          "E87D",
+          "D106N",
+          "E110D",
+          "D115N",
+          "K254R",
+          "A332T"
+        ]
+      },
+      "attr": {
+        "clock_length": 0.041785898106906354,
+        "country": "Canada",
+        "country_confidence": {
+          "Canada": 0.9975552174553344,
+          "Zimbabwe": 0.002444782544665642
+        },
+        "country_entropy": 0.01714422268731011,
+        "date": "1790-08-21",
+        "div": 0.03994209602101414,
+        "num_date": 1790.6389908485633,
+        "num_date_confidence": [
+          -1676.4334490787007,
+          2010.102980141372
+        ]
+      },
+      "branch_length": 0.0417859,
+      "children": [
+        {
+          "aa_muts": {
+            "RABVgp1": [
+              "K99R",
+              "I257L",
+              "G397S"
+            ]
+          },
+          "attr": {
+            "clock_length": 0.01343329463694614,
+            "country": "Canada",
+            "country_confidence": {
+              "Canada": 0.9996281737978726
+            },
+            "country_entropy": 0.003308099820051925,
+            "date": "1849-07-26",
+            "div": 0.0541609857689292,
+            "num_date": 1849.568178029983,
+            "num_date_confidence": [
+              -682.4078790856281,
+              2010.4144380618345
+            ]
+          },
+          "branch_length": 0.01343329,
+          "children": [
+            {
+              "aa_muts": {
+                "RABVgp1": [
+                  "S36L",
+                  "K112I",
+                  "T375A",
+                  "V379I"
+                ]
+              },
+              "attr": {
+                "accession": "KY203168",
+                "clock_length": 0.037187171365598216,
+                "country": "Canada",
+                "country_confidence": {
+                  "Canada": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2012-09-13",
+                "div": 0.07919739562388071,
+                "host": "Bat (Myotis volans)",
+                "num_date": 2012.7008898015058,
+                "num_date_confidence": [
+                  2012.7008898015058,
+                  2012.7008898015058
+                ],
+                "raw_date": "2012-09-12"
+              },
+              "branch_length": 0.03718717,
+              "clade": 5,
+              "muts": [
+                "T36C",
+                "G105A",
+                "A114G",
+                "C119T",
+                "G174A",
+                "T240C",
+                "T336C",
+                "A347T",
+                "T351C",
+                "T357C",
+                "A399G",
+                "T570C",
+                "C600T",
+                "A681G",
+                "G735A",
+                "A771G",
+                "C784T",
+                "T912C",
+                "T921C",
+                "C942T",
+                "A975G",
+                "T985C",
+                "T1002C",
+                "T1074C",
+                "C1098T",
+                "A1125G",
+                "A1135G",
+                "G1147A",
+                "G1149A",
+                "G1155A",
+                "T1185C",
+                "A1206G",
+                "A1266G",
+                "A1281G",
+                "T1320C",
+                "A1323C"
+              ],
+              "strain": "KY203168",
+              "yvalue": 41
+            },
+            {
+              "aa_muts": {
+                "RABVgp1": [
+                  "N11K",
+                  "K37R",
+                  "T90V",
+                  "K112R",
+                  "S135P",
+                  "D378E"
+                ]
+              },
+              "attr": {
+                "clock_length": 0.033365115559334614,
+                "country": "Canada",
+                "country_confidence": {
+                  "Canada": 0.9999993525651252
+                },
+                "country_entropy": 9.873539954046087e-06,
+                "date": "1995-12-07",
+                "div": 0.10154863595224532,
+                "num_date": 1995.9342924691075,
+                "num_date_confidence": [
+                  1914.044695656821,
+                  2010.450384340596
+                ]
+              },
+              "branch_length": 0.03336512,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "KY203179",
+                    "clock_length": 0.00429481991903004,
+                    "country": "Canada",
+                    "country_confidence": {
+                      "Canada": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2014-10-09",
+                    "div": 0.10295492010579727,
+                    "host": "Bat (Myotis californicus)",
+                    "num_date": 2014.7748117727583,
+                    "num_date_confidence": [
+                      2014.7748117727583,
+                      2014.7748117727583
+                    ],
+                    "raw_date": "2014-10-10"
+                  },
+                  "branch_length": 0.00429482,
+                  "clade": 6,
+                  "muts": [
+                    "A33G",
+                    "C627T"
+                  ],
+                  "strain": "KY203179",
+                  "yvalue": 40
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.0005637381755203529,
+                    "country": "Canada",
+                    "country_confidence": {
+                      "Canada": 0.9999999838363802
+                    },
+                    "country_entropy": 3.0614508645094265e-07,
+                    "date": "1998-05-28",
+                    "div": 0.10295505841659437,
+                    "num_date": 1998.4072995283873,
+                    "num_date_confidence": [
+                      1960.8761733603149,
+                      2010.4855259808019
+                    ]
+                  },
+                  "branch_length": 0.00056374,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "KY203163",
+                        "clock_length": 0.00323460141122495,
+                        "country": "Canada",
+                        "country_confidence": {
+                          "Canada": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2012-08-06",
+                        "div": 0.10436078876102797,
+                        "host": "Bat (Eptesicus fuscus)",
+                        "num_date": 2012.5968514715948,
+                        "num_date_confidence": [
+                          2012.5968514715948,
+                          2012.5968514715948
+                        ],
+                        "raw_date": "2012-08-05"
+                      },
+                      "branch_length": 0.0032346,
+                      "clade": 7,
+                      "muts": [
+                        "T255C",
+                        "A525G"
+                      ],
+                      "strain": "KY203163",
+                      "yvalue": 39
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.00018335463286155672,
+                        "country": "Canada",
+                        "country_confidence": {
+                          "Canada": 0.9999999849478076
+                        },
+                        "country_entropy": 2.8616640135617777e-07,
+                        "date": "1999-03-18",
+                        "div": 0.10295505841659437,
+                        "num_date": 1999.2116397719758,
+                        "num_date_confidence": [
+                          1960.9237687208883,
+                          2010.5206399581762
+                        ]
+                      },
+                      "branch_length": 0.00018335,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "RABVgp1": [
+                              "K364R"
+                            ]
+                          },
+                          "attr": {
+                            "accession": "KY203183",
+                            "clock_length": 0.0037394852276745535,
+                            "country": "Canada",
+                            "country_confidence": {
+                              "Canada": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2015-08-13",
+                            "div": 0.10436078876102797,
+                            "host": "Bat (Myotis volans)",
+                            "num_date": 2015.6160164271048,
+                            "num_date_confidence": [
+                              2015.6160164271048,
+                              2015.6160164271048
+                            ],
+                            "raw_date": "2015-08-13"
+                          },
+                          "branch_length": 0.00373949,
+                          "clade": 8,
+                          "muts": [
+                            "A1103G",
+                            "T1128C"
+                          ],
+                          "strain": "KY203183",
+                          "yvalue": 38
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0008182696254517337,
+                            "country": "Canada",
+                            "country_confidence": {
+                              "Canada": 0.9999999840703822
+                            },
+                            "country_entropy": 3.019452719053319e-07,
+                            "date": "2002-10-19",
+                            "div": 0.10436091779812866,
+                            "num_date": 2002.8012255903718,
+                            "num_date_confidence": [
+                              1973.999855577552,
+                              2010.5557837097879
+                            ]
+                          },
+                          "branch_length": 0.00081827,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KY203152",
+                                "clock_length": 0.0017677023726246832,
+                                "country": "Canada",
+                                "country_confidence": {
+                                  "Canada": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2010-07-22",
+                                "div": 0.10576721580493514,
+                                "host": "Bat (Lasionycteris noctivagans)",
+                                "num_date": 2010.5557837097879,
+                                "num_date_confidence": [
+                                  2010.5557837097879,
+                                  2010.5557837097879
+                                ],
+                                "raw_date": "2010-07-22"
+                              },
+                              "branch_length": 0.0017677,
+                              "clade": 9,
+                              "muts": [
+                                "C21A",
+                                "T1128C"
+                              ],
+                              "strain": "KY203152",
+                              "yvalue": 37
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KY203171",
+                                "clock_length": 0.002253572817230203,
+                                "country": "Canada",
+                                "country_confidence": {
+                                  "Canada": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2012-09-08",
+                                "div": 0.10858693003084662,
+                                "host": "Bat (Lasionycteris noctivagans)",
+                                "num_date": 2012.6872005475702,
+                                "num_date_confidence": [
+                                  2012.6872005475702,
+                                  2012.6872005475702
+                                ],
+                                "raw_date": "2012-09-07"
+                              },
+                              "branch_length": 0.00225357,
+                              "clade": 10,
+                              "muts": [
+                                "G120A",
+                                "C225T",
+                                "A756G",
+                                "T912C",
+                                "T1005C",
+                                "C1326T"
+                              ],
+                              "strain": "KY203171",
+                              "yvalue": 36
+                            }
+                          ],
+                          "clade": 11,
+                          "muts": [
+                            "T1350C",
+                            "G1353A"
+                          ],
+                          "strain": "NODE_0000024",
+                          "yvalue": 36.5
+                        }
+                      ],
+                      "clade": 12,
+                      "muts": [],
+                      "strain": "NODE_0000023",
+                      "yvalue": 37.25
+                    }
+                  ],
+                  "clade": 13,
+                  "muts": [
+                    "A312C",
+                    "G537A"
+                  ],
+                  "strain": "NODE_0000022",
+                  "yvalue": 38.125
+                }
+              ],
+              "clade": 14,
+              "muts": [
+                "T45G",
+                "T60C",
+                "C61T",
+                "T75C",
+                "T108A",
+                "A122G",
+                "A183G",
+                "C186T",
+                "T270C",
+                "A280G",
+                "C281T",
+                "C282T",
+                "T288C",
+                "A303G",
+                "A347G",
+                "C405T",
+                "T415C",
+                "G417A",
+                "T429C",
+                "T445C",
+                "G447A",
+                "C451T",
+                "C507T",
+                "G525A",
+                "A549G",
+                "C555T",
+                "A558G",
+                "A561G",
+                "C633T",
+                "C642T",
+                "C657T",
+                "G672A",
+                "A687G",
+                "T699A",
+                "C720T",
+                "A774G",
+                "A780G",
+                "A783G",
+                "T789C",
+                "T807C",
+                "G816A",
+                "A825G",
+                "C864T",
+                "A885G",
+                "G909A",
+                "G936T",
+                "T966C",
+                "T1032C",
+                "T1044C",
+                "A1104G",
+                "T1132C",
+                "A1134G",
+                "A1137C",
+                "C1146A",
+                "C1152T",
+                "T1176C",
+                "G1218T",
+                "A1224G",
+                "C1258T",
+                "A1308G",
+                "C1314T",
+                "T1317C",
+                "A1338G",
+                "C1350T"
+              ],
+              "strain": "NODE_0000021",
+              "yvalue": 39.0625
+            }
+          ],
+          "clade": 15,
+          "muts": [
+            "T84C",
+            "T207C",
+            "G234A",
+            "G261A",
+            "T300A",
+            "A308G",
+            "C342T",
+            "A432G",
+            "A636G",
+            "G690A",
+            "A781C",
+            "T837G",
+            "C849T",
+            "T897C",
+            "C1005T",
+            "G1017A",
+            "G1201A",
+            "T1230C",
+            "T1233C",
+            "T1296C",
+            "C1336T"
+          ],
+          "strain": "NODE_0000020",
+          "yvalue": 40.03125
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 0.005886876849576977,
+            "country": "Canada",
+            "country_confidence": {
+              "Canada": 0.9995398012779267
+            },
+            "country_entropy": 0.003996191755765172,
+            "date": "1816-06-18",
+            "div": 0.04559432379969385,
+            "num_date": 1816.4635467120647,
+            "num_date_confidence": [
+              -1267.3302798589466,
+              2010.1542754117638
+            ]
+          },
+          "branch_length": 0.00588688,
+          "children": [
+            {
+              "aa_muts": {
+                "RABVgp1": [
+                  "Q13K",
+                  "S36L",
+                  "I56V",
+                  "A84T",
+                  "S135P",
+                  "I249T",
+                  "L374S",
+                  "R448K"
+                ]
+              },
+              "attr": {
+                "clock_length": 0.03810317138228633,
+                "country": "Canada",
+                "country_confidence": {
+                  "Canada": 0.9999967100199227
+                },
+                "country_entropy": 4.4824750717426364e-05,
+                "date": "1983-08-12",
+                "div": 0.0840437596099648,
+                "num_date": 1983.6145680569616,
+                "num_date_confidence": [
+                  1736.6431536135253,
+                  2010.5123518106755
+                ]
+              },
+              "branch_length": 0.03810317,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "KY203159",
+                    "clock_length": 0.0063731279944592885,
+                    "country": "Canada",
+                    "country_confidence": {
+                      "Canada": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2011-07-27",
+                    "div": 0.08756911972869998,
+                    "host": "Bat (Eptesicus fuscus)",
+                    "num_date": 2011.5722108145105,
+                    "num_date_confidence": [
+                      2011.5722108145105,
+                      2011.5722108145105
+                    ],
+                    "raw_date": "2011-07-28"
+                  },
+                  "branch_length": 0.00637313,
+                  "clade": 16,
+                  "muts": [
+                    "T394C",
+                    "G714A",
+                    "A810G",
+                    "T1230C",
+                    "A1308G"
+                  ],
+                  "strain": "KY203159",
+                  "yvalue": 35
+                },
+                {
+                  "aa_muts": {
+                    "RABVgp1": [
+                      "T332A",
+                      "M411I"
+                    ]
+                  },
+                  "attr": {
+                    "clock_length": 0.003025977716379761,
+                    "country": "Canada",
+                    "country_confidence": {
+                      "Canada": 0.9999999571974876
+                    },
+                    "country_entropy": 7.690165721330764e-07,
+                    "date": "1996-11-20",
+                    "div": 0.08827826018129582,
+                    "num_date": 1996.8889294161559,
+                    "num_date_confidence": [
+                      1960.6870664555313,
+                      2010.5475701574264
+                    ]
+                  },
+                  "branch_length": 0.00302598,
+                  "children": [
+                    {
+                      "aa_muts": {
+                        "RABVgp1": [
+                          "N11H",
+                          "L36W"
+                        ]
+                      },
+                      "attr": {
+                        "accession": "KY203146",
+                        "clock_length": 0.003113576721376127,
+                        "country": "Canada",
+                        "country_confidence": {
+                          "Canada": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2010-07-19",
+                        "div": 0.09110702977920727,
+                        "host": "Bat (Eptesicus fuscus)",
+                        "num_date": 2010.5475701574264,
+                        "num_date_confidence": [
+                          2010.5475701574264,
+                          2010.5475701574264
+                        ],
+                        "raw_date": "2010-07-19"
+                      },
+                      "branch_length": 0.00311358,
+                      "clade": 17,
+                      "muts": [
+                        "A43C",
+                        "T119G",
+                        "C369T",
+                        "C741G"
+                      ],
+                      "strain": "KY203146",
+                      "yvalue": 34
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 9.978382571493478e-05,
+                        "country": "Canada",
+                        "country_confidence": {
+                          "Canada": 0.9999999918981921
+                        },
+                        "country_entropy": 1.5904603922390158e-07,
+                        "date": "1997-04-29",
+                        "div": 0.08827826018129582,
+                        "num_date": 1997.326661179074,
+                        "num_date_confidence": [
+                          1960.8090640360422,
+                          2013.5905906878597
+                        ]
+                      },
+                      "branch_length": 9.978e-05,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "RABVgp1": [
+                              "K448R"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 0.0019691883491728592,
+                            "country": "Canada",
+                            "country_confidence": {
+                              "Canada": 0.9999999649616201
+                            },
+                            "country_entropy": 6.365340011490272e-07,
+                            "date": "2005-12-18",
+                            "div": 0.09039243281473534,
+                            "num_date": 2005.9650981344225,
+                            "num_date_confidence": [
+                              1989.350474243631,
+                              2012.7589034676673
+                            ]
+                          },
+                          "branch_length": 0.00196919,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KY203180",
+                                "clock_length": 0.002011976658419677,
+                                "country": "Canada",
+                                "country_confidence": {
+                                  "Canada": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2014-10-16",
+                                "div": 0.09250626579148752,
+                                "host": "Bat (Eptesicus fuscus)",
+                                "num_date": 2014.7912388774812,
+                                "num_date_confidence": [
+                                  2014.7912388774812,
+                                  2014.7912388774812
+                                ],
+                                "raw_date": "2014-10-16"
+                              },
+                              "branch_length": 0.00201198,
+                              "clade": 18,
+                              "muts": [
+                                "G120A",
+                                "T567C",
+                                "G801A"
+                              ],
+                              "strain": "KY203180",
+                              "yvalue": 33
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KY203185",
+                                "clock_length": 0.0022224581066447157,
+                                "country": "Canada",
+                                "country_confidence": {
+                                  "Canada": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2015-09-17",
+                                "div": 0.09109626196274953,
+                                "host": "Bat (Eptesicus fuscus)",
+                                "num_date": 2015.7145790554414,
+                                "num_date_confidence": [
+                                  2015.7145790554414,
+                                  2015.7145790554414
+                                ],
+                                "raw_date": "2015-09-18"
+                              },
+                              "branch_length": 0.00222246,
+                              "clade": 19,
+                              "muts": [
+                                "T510C"
+                              ],
+                              "strain": "KY203185",
+                              "yvalue": 32
+                            }
+                          ],
+                          "clade": 20,
+                          "muts": [
+                            "C1350T",
+                            "T1353G",
+                            "A1355G"
+                          ],
+                          "strain": "NODE_0000013",
+                          "yvalue": 32.5
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0008719099823311293,
+                            "country": "Canada",
+                            "country_confidence": {
+                              "Canada": 0.9999999623640977
+                            },
+                            "country_entropy": 6.810312193691189e-07,
+                            "date": "2001-02-24",
+                            "div": 0.08827826018129582,
+                            "num_date": 2001.1515565560298,
+                            "num_date_confidence": [
+                              1962.0904676811465,
+                              2013.368337256236
+                            ]
+                          },
+                          "branch_length": 0.00087191,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KY203176",
+                                "clock_length": 0.003065567252464501,
+                                "country": "Canada",
+                                "country_confidence": {
+                                  "Canada": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2014-08-07",
+                                "div": 0.0910973075288849,
+                                "host": "Bat (Eptesicus fuscus)",
+                                "num_date": 2014.599589322382,
+                                "num_date_confidence": [
+                                  2014.599589322382,
+                                  2014.599589322382
+                                ],
+                                "raw_date": "2014-08-07"
+                              },
+                              "branch_length": 0.00306557,
+                              "clade": 21,
+                              "muts": [
+                                "T84C",
+                                "A402G",
+                                "T807C",
+                                "C1005T"
+                              ],
+                              "strain": "KY203176",
+                              "yvalue": 31
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KY203178",
+                                "clock_length": 0.0030780494732635948,
+                                "country": "Canada",
+                                "country_confidence": {
+                                  "Canada": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2014-08-26",
+                                "div": 0.08827826018129582,
+                                "host": "Bat (Eptesicus fuscus)",
+                                "num_date": 2014.6543463381245,
+                                "num_date_confidence": [
+                                  2014.6543463381245,
+                                  2014.6543463381245
+                                ],
+                                "raw_date": "2014-08-27"
+                              },
+                              "branch_length": 0.00307805,
+                              "clade": 22,
+                              "muts": [],
+                              "strain": "KY203178",
+                              "yvalue": 30
+                            }
+                          ],
+                          "clade": 23,
+                          "muts": [],
+                          "strain": "NODE_0000018",
+                          "yvalue": 30.5
+                        }
+                      ],
+                      "clade": 24,
+                      "muts": [],
+                      "strain": "NODE_0000014",
+                      "yvalue": 31.5
+                    }
+                  ],
+                  "clade": 25,
+                  "muts": [
+                    "C942T",
+                    "G978A",
+                    "A1006G",
+                    "T1035C",
+                    "G1047T",
+                    "G1245A"
+                  ],
+                  "strain": "NODE_0000012",
+                  "yvalue": 32.75
+                }
+              ],
+              "clade": 26,
+              "muts": [
+                "A33G",
+                "C49A",
+                "C78A",
+                "C117T",
+                "C119T",
+                "A147G",
+                "A165G",
+                "A178G",
+                "T180C",
+                "G258A",
+                "G262A",
+                "C324T",
+                "A345C",
+                "T369C",
+                "G402A",
+                "T415C",
+                "T429G",
+                "G459A",
+                "C495T",
+                "G498A",
+                "A510T",
+                "G525A",
+                "T570C",
+                "T606C",
+                "C618T",
+                "C627T",
+                "T663C",
+                "G726A",
+                "T738C",
+                "A741C",
+                "T758C",
+                "T768C",
+                "C784T",
+                "C798T",
+                "G909A",
+                "T927G",
+                "T957G",
+                "G987A",
+                "T1045C",
+                "A1068G",
+                "C1092T",
+                "T1110G",
+                "A1131G",
+                "T1133C",
+                "C1146T",
+                "T1185C",
+                "A1236G",
+                "A1251G",
+                "C1258T",
+                "C1293A",
+                "G1353T",
+                "G1355A"
+              ],
+              "strain": "NODE_0000011",
+              "yvalue": 33.875
+            },
+            {
+              "aa_muts": {
+                "RABVgp1": [
+                  "N106D",
+                  "N115H",
+                  "D378E"
+                ]
+              },
+              "attr": {
+                "clock_length": 0.021931443188600783,
+                "country": "Canada",
+                "country_confidence": {
+                  "Canada": 0.9999968164333781
+                },
+                "country_entropy": 4.347958084599207e-05,
+                "date": "1912-09-02",
+                "div": 0.06709877358147427,
+                "num_date": 1912.672418455649,
+                "num_date_confidence": [
+                  371.0586478693988,
+                  2010.2055893963923
+                ]
+              },
+              "branch_length": 0.02193144,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.005060070563270468,
+                    "country": "Canada",
+                    "country_confidence": {
+                      "Canada": 0.9999976814152273
+                    },
+                    "country_entropy": 3.2401182425431894e-05,
+                    "date": "1934-11-13",
+                    "div": 0.07345979050530448,
+                    "num_date": 1934.8699398703916,
+                    "num_date_confidence": [
+                      767.4719677859146,
+                      2010.24115369118
+                    ]
+                  },
+                  "branch_length": 0.00506007,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "KY203181",
+                        "clock_length": 0.01847275340112426,
+                        "country": "Canada",
+                        "country_confidence": {
+                          "Canada": 0.9999999999999999
+                        },
+                        "country_entropy": -9.99866855976916e-13,
+                        "date": "2015-11-26",
+                        "div": 0.09420017236692016,
+                        "host": "Bat (Myotis ciliolabrum)",
+                        "num_date": 2015.9062286105407,
+                        "num_date_confidence": [
+                          2015.9062286105407,
+                          2015.9062286105407
+                        ],
+                        "raw_date": "2015-11-27"
+                      },
+                      "branch_length": 0.01847275,
+                      "clade": 27,
+                      "muts": [
+                        "G39A",
+                        "T69A",
+                        "G120T",
+                        "G174A",
+                        "A183G",
+                        "T240C",
+                        "T273C",
+                        "G360T",
+                        "G366A",
+                        "G396A",
+                        "G525A",
+                        "G537T",
+                        "A558G",
+                        "G615A",
+                        "T651C",
+                        "G672T",
+                        "T765C",
+                        "T882C",
+                        "T954C",
+                        "G978A",
+                        "G996A",
+                        "T1020C",
+                        "T1062C",
+                        "A1080G",
+                        "A1134G",
+                        "A1167G",
+                        "A1206G",
+                        "T1302C",
+                        "T1317G",
+                        "C1350T"
+                      ],
+                      "strain": "KY203181",
+                      "yvalue": 29
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.005927675318078533,
+                        "country": "Canada",
+                        "country_confidence": {
+                          "Canada": 0.9999995974677038
+                        },
+                        "country_entropy": 6.330015721157687e-06,
+                        "date": "1960-11-15",
+                        "div": 0.0791097089403353,
+                        "num_date": 1960.8734704867009,
+                        "num_date_confidence": [
+                          1284.441582682657,
+                          2010.2918807247297
+                        ]
+                      },
+                      "branch_length": 0.00592768,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0032437618232662706,
+                            "country": "Canada",
+                            "country_confidence": {
+                              "Canada": 0.9999991170911339
+                            },
+                            "country_entropy": 1.3190694787856475e-05,
+                            "date": "1975-02-06",
+                            "div": 0.07981302113433744,
+                            "num_date": 1975.1032073324534,
+                            "num_date_confidence": [
+                              1342.062547132923,
+                              2010.5776865077985
+                            ]
+                          },
+                          "branch_length": 0.00324376,
+                          "children": [
+                            {
+                              "aa_muts": {
+                                "RABVgp1": [
+                                  "Q156L"
+                                ]
+                              },
+                              "attr": {
+                                "accession": "KY203151",
+                                "clock_length": 0.008086640148265684,
+                                "country": "Canada",
+                                "country_confidence": {
+                                  "Canada": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2010-07-30",
+                                "div": 0.087605107174327,
+                                "host": "Bat (Myotis septentrionalis)",
+                                "num_date": 2010.577686516085,
+                                "num_date_confidence": [
+                                  2010.577686516085,
+                                  2010.577686516085
+                                ],
+                                "raw_date": "2010-07-30"
+                              },
+                              "branch_length": 0.00808664,
+                              "clade": 28,
+                              "muts": [
+                                "G120A",
+                                "A144G",
+                                "A168T",
+                                "G297T",
+                                "G417T",
+                                "A479T",
+                                "C486T",
+                                "A612C",
+                                "G936A",
+                                "T1062C",
+                                "T1176C"
+                              ],
+                              "strain": "KY203151",
+                              "yvalue": 28
+                            },
+                            {
+                              "aa_muts": {
+                                "RABVgp1": [
+                                  "H115N"
+                                ]
+                              },
+                              "attr": {
+                                "accession": "KY203161",
+                                "clock_length": 0.008338937036167752,
+                                "country": "Canada",
+                                "country_confidence": {
+                                  "Canada": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2011-09-06",
+                                "div": 0.08833445162540005,
+                                "host": "Bat (Myotis septentrionalis)",
+                                "num_date": 2011.684462696783,
+                                "num_date_confidence": [
+                                  2011.684462696783,
+                                  2011.684462696783
+                                ],
+                                "raw_date": "2011-09-07"
+                              },
+                              "branch_length": 0.00833894,
+                              "clade": 29,
+                              "muts": [
+                                "A81G",
+                                "C355A",
+                                "A432G",
+                                "G537C",
+                                "A549G",
+                                "C555T",
+                                "C628T",
+                                "T765C",
+                                "A993C",
+                                "T1143G",
+                                "A1158T",
+                                "T1203C"
+                              ],
+                              "strain": "KY203161",
+                              "yvalue": 27
+                            }
+                          ],
+                          "clade": 30,
+                          "muts": [
+                            "A348G",
+                            "A1134G"
+                          ],
+                          "strain": "NODE_0000007",
+                          "yvalue": 27.5
+                        },
+                        {
+                          "aa_muts": {
+                            "RABVgp1": [
+                              "D106N"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 0.004946004911228834,
+                            "country": "Canada",
+                            "country_confidence": {
+                              "Canada": 0.9999996580877695
+                            },
+                            "country_entropy": 5.43254282222599e-06,
+                            "date": "1982-07-27",
+                            "div": 0.08617477512128163,
+                            "num_date": 1982.5706086118785,
+                            "num_date_confidence": [
+                              1686.8848392741365,
+                              2010.3426052274262
+                            ]
+                          },
+                          "branch_length": 0.004946,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 0.0042858694691830694,
+                                "country": "Canada",
+                                "country_confidence": {
+                                  "Canada": 0.9999998191049735
+                                },
+                                "country_entropy": 2.989351416816107e-06,
+                                "date": "2001-05-15",
+                                "div": 0.0918227136176621,
+                                "num_date": 2001.371864075299,
+                                "num_date_confidence": [
+                                  1911.6568322357623,
+                                  2015.5119780971936
+                                ]
+                              },
+                              "branch_length": 0.00428587,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "KY203182",
+                                    "clock_length": 0.0032233317128801953,
+                                    "country": "Canada",
+                                    "country_confidence": {
+                                      "Canada": 0.9999999999999999
+                                    },
+                                    "country_entropy": -9.99866855976916e-13,
+                                    "date": "2015-07-05",
+                                    "div": 0.09534803607007043,
+                                    "host": "Bat (Myotis evotis)",
+                                    "num_date": 2015.5119780971936,
+                                    "num_date_confidence": [
+                                      2015.5119780971936,
+                                      2015.5119780971936
+                                    ],
+                                    "raw_date": "2015-07-06"
+                                  },
+                                  "branch_length": 0.00322333,
+                                  "clade": 31,
+                                  "muts": [
+                                    "C324T",
+                                    "T513C",
+                                    "G690T",
+                                    "G735T",
+                                    "T957C"
+                                  ],
+                                  "strain": "KY203182",
+                                  "yvalue": 26
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "KY203186",
+                                    "clock_length": 0.0032688918187969776,
+                                    "country": "Canada",
+                                    "country_confidence": {
+                                      "Canada": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2015-09-16",
+                                    "div": 0.0932302575566981,
+                                    "host": "Bat (Myotis lucifugus)",
+                                    "num_date": 2015.7118412046543,
+                                    "num_date_confidence": [
+                                      2015.7118412046543,
+                                      2015.7118412046543
+                                    ],
+                                    "raw_date": "2015-09-17"
+                                  },
+                                  "branch_length": 0.00326889,
+                                  "clade": 32,
+                                  "muts": [
+                                    "A558G",
+                                    "C609T"
+                                  ],
+                                  "strain": "KY203186",
+                                  "yvalue": 25
+                                }
+                              ],
+                              "clade": 33,
+                              "muts": [
+                                "G261A",
+                                "C276T",
+                                "T594C",
+                                "A678G",
+                                "T867C",
+                                "A885G",
+                                "C1323A",
+                                "C1350T"
+                              ],
+                              "strain": "NODE_0000005",
+                              "yvalue": 25.5
+                            },
+                            {
+                              "aa_muts": {
+                                "RABVgp1": [
+                                  "S135P"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.0040141515454918675,
+                                "country": "Canada",
+                                "country_confidence": {
+                                  "Canada": 0.9999999998350632
+                                },
+                                "country_entropy": 3.878218541836346e-09,
+                                "date": "2000-03-06",
+                                "div": 0.09182165005849738,
+                                "num_date": 2000.1798916799562,
+                                "num_date_confidence": [
+                                  1968.748595362368,
+                                  2010.3778234086242
+                                ]
+                              },
+                              "branch_length": 0.00401415,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "KY203170",
+                                    "clock_length": 0.0028536195152569547,
+                                    "country": "Canada",
+                                    "country_confidence": {
+                                      "Canada": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2012-09-12",
+                                    "div": 0.09393343985131493,
+                                    "host": "Bat (Myotis lucifugus)",
+                                    "num_date": 2012.6981519507187,
+                                    "num_date_confidence": [
+                                      2012.6981519507187,
+                                      2012.6981519507187
+                                    ],
+                                    "raw_date": "2012-09-11"
+                                  },
+                                  "branch_length": 0.00285362,
+                                  "clade": 34,
+                                  "muts": [
+                                    "C411T",
+                                    "A1338G",
+                                    "C1350T"
+                                  ],
+                                  "strain": "KY203170",
+                                  "yvalue": 24
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "KY203153",
+                                    "clock_length": 0.0023246854088944707,
+                                    "country": "Canada",
+                                    "country_confidence": {
+                                      "Canada": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2010-05-17",
+                                    "div": 0.0932286105726694,
+                                    "host": "Bat (Myotis lucifugus)",
+                                    "num_date": 2010.3778234086242,
+                                    "num_date_confidence": [
+                                      2010.3778234086242,
+                                      2010.3778234086242
+                                    ],
+                                    "raw_date": "2010-05-18"
+                                  },
+                                  "branch_length": 0.00232469,
+                                  "clade": 35,
+                                  "muts": [
+                                    "G690A",
+                                    "T1305C"
+                                  ],
+                                  "strain": "KY203153",
+                                  "yvalue": 23
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.00047918603766512833,
+                                    "country": "Canada",
+                                    "country_confidence": {
+                                      "Canada": 0.9999999924214518
+                                    },
+                                    "country_entropy": 1.4927982186152672e-07,
+                                    "date": "2002-04-12",
+                                    "div": 0.09252485010525065,
+                                    "num_date": 2002.281985356263,
+                                    "num_date_confidence": [
+                                      1989.211940954511,
+                                      2010.6078028747434
+                                    ]
+                                  },
+                                  "branch_length": 0.00047919,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "accession": "KY203154",
+                                        "clock_length": 0.00189792469858564,
+                                        "country": "Canada",
+                                        "country_confidence": {
+                                          "Canada": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2010-08-10",
+                                        "div": 0.09322779030772371,
+                                        "host": "Bat (Myotis lucifugus)",
+                                        "num_date": 2010.6078028747434,
+                                        "num_date_confidence": [
+                                          2010.6078028747434,
+                                          2010.6078028747434
+                                        ],
+                                        "raw_date": "2010-08-10"
+                                      },
+                                      "branch_length": 0.00189792,
+                                      "clade": 36,
+                                      "muts": [
+                                        "G900A"
+                                      ],
+                                      "strain": "KY203154",
+                                      "yvalue": 22
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.000663413244964532,
+                                        "country": "Canada",
+                                        "country_confidence": {
+                                          "Canada": 0.9999999886713473
+                                        },
+                                        "country_entropy": 2.1859489782810896e-07,
+                                        "date": "2005-03-11",
+                                        "div": 0.09252485010525065,
+                                        "num_date": 2005.1922470863694,
+                                        "num_date_confidence": [
+                                          1989.7977743619758,
+                                          2011.6516084873374
+                                        ]
+                                      },
+                                      "branch_length": 0.00066341,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "accession": "KY203172",
+                                            "clock_length": 0.0019296151243717826,
+                                            "country": "Canada",
+                                            "country_confidence": {
+                                              "Canada": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2013-08-28",
+                                            "div": 0.09252485010525065,
+                                            "host": "Bat (Myotis lucifugus)",
+                                            "num_date": 2013.6570841889118,
+                                            "num_date_confidence": [
+                                              2013.6570841889118,
+                                              2013.6570841889118
+                                            ],
+                                            "raw_date": "2013-08-28"
+                                          },
+                                          "branch_length": 0.00192962,
+                                          "clade": 37,
+                                          "muts": [],
+                                          "strain": "KY203172",
+                                          "yvalue": 21
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "accession": "KY203160",
+                                            "clock_length": 0.0014724537876042044,
+                                            "country": "Canada",
+                                            "country_confidence": {
+                                              "Canada": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2011-08-25",
+                                            "div": 0.09252485010525065,
+                                            "host": "Bat (Myotis lucifugus)",
+                                            "num_date": 2011.6516084873374,
+                                            "num_date_confidence": [
+                                              2011.6516084873374,
+                                              2011.6516084873374
+                                            ],
+                                            "raw_date": "2011-08-26"
+                                          },
+                                          "branch_length": 0.00147245,
+                                          "clade": 38,
+                                          "muts": [],
+                                          "strain": "KY203160",
+                                          "yvalue": 20
+                                        }
+                                      ],
+                                      "clade": 39,
+                                      "muts": [],
+                                      "strain": "NODE_0000038",
+                                      "yvalue": 20.5
+                                    }
+                                  ],
+                                  "clade": 40,
+                                  "muts": [
+                                    "A105C"
+                                  ],
+                                  "strain": "NODE_0000001",
+                                  "yvalue": 21.25
+                                }
+                              ],
+                              "clade": 41,
+                              "muts": [
+                                "T36C",
+                                "T415C",
+                                "T456C",
+                                "C555T",
+                                "C582T",
+                                "T985C",
+                                "T1128C",
+                                "C1290A"
+                              ],
+                              "strain": "NODE_0000003",
+                              "yvalue": 22.625
+                            }
+                          ],
+                          "clade": 42,
+                          "muts": [
+                            "G328A",
+                            "G366A",
+                            "T450C",
+                            "C507T",
+                            "T528C",
+                            "T879C",
+                            "T1035C",
+                            "C1164T",
+                            "T1317C"
+                          ],
+                          "strain": "NODE_0000004",
+                          "yvalue": 24.0625
+                        }
+                      ],
+                      "clade": 43,
+                      "muts": [
+                        "T108C",
+                        "G360A",
+                        "T414C",
+                        "C873T",
+                        "G915A",
+                        "T1074C",
+                        "T1200C",
+                        "A1290C"
+                      ],
+                      "strain": "NODE_0000006",
+                      "yvalue": 25.78125
+                    }
+                  ],
+                  "clade": 44,
+                  "muts": [
+                    "A72G",
+                    "G105A",
+                    "A114G",
+                    "G402A",
+                    "T438C",
+                    "T571C",
+                    "C594T",
+                    "T966C"
+                  ],
+                  "strain": "NODE_0000008",
+                  "yvalue": 27.390625
+                },
+                {
+                  "aa_muts": {
+                    "RABVgp1": [
+                      "G397S"
+                    ]
+                  },
+                  "attr": {
+                    "clock_length": 0.00507128026736137,
+                    "country": "Canada",
+                    "country_confidence": {
+                      "Canada": 0.9999997531863383
+                    },
+                    "country_entropy": 4.001990711485299e-06,
+                    "date": "1934-12-01",
+                    "div": 0.07133394915888255,
+                    "num_date": 1934.919114608866,
+                    "num_date_confidence": [
+                      738.323369000565,
+                      2010.2662973319646
+                    ]
+                  },
+                  "branch_length": 0.00507128,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.010823838445226889,
+                        "country": "Canada",
+                        "country_confidence": {
+                          "Canada": 0.99999956660762
+                        },
+                        "country_entropy": 6.783291759036853e-06,
+                        "date": "1982-05-26",
+                        "div": 0.0791198416920716,
+                        "num_date": 1982.4011373738508,
+                        "num_date_confidence": [
+                          1648.7310660087016,
+                          2011.5835243205836
+                        ]
+                      },
+                      "branch_length": 0.01082384,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "RABVgp1": [
+                              "G346W",
+                              "S396A"
+                            ]
+                          },
+                          "attr": {
+                            "accession": "KY203167",
+                            "clock_length": 0.0068982896972189485,
+                            "country": "Canada",
+                            "country_confidence": {
+                              "Canada": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2012-08-29",
+                            "div": 0.08264860968357912,
+                            "host": "Bat (Myotis yumanensis)",
+                            "num_date": 2012.662559890486,
+                            "num_date_confidence": [
+                              2012.662559890486,
+                              2012.662559890486
+                            ],
+                            "raw_date": "2012-08-29"
+                          },
+                          "branch_length": 0.00689829,
+                          "clade": 45,
+                          "muts": [
+                            "A114G",
+                            "G417A",
+                            "G1048T",
+                            "T1198G",
+                            "A1308G"
+                          ],
+                          "strain": "KY203167",
+                          "yvalue": 19
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0014132881293818069,
+                            "country": "Canada",
+                            "country_confidence": {
+                              "Canada": 0.9999998252870012
+                            },
+                            "country_entropy": 2.893266424717589e-06,
+                            "date": "1988-08-07",
+                            "div": 0.0798238618490388,
+                            "num_date": 1988.600950820104,
+                            "num_date_confidence": [
+                              1686.8584320460743,
+                              2011.6187542703694
+                            ]
+                          },
+                          "branch_length": 0.00141329,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KY203156",
+                                "clock_length": 0.005247059233854045,
+                                "country": "Canada",
+                                "country_confidence": {
+                                  "Canada": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2011-08-14",
+                                "div": 0.0868976510984264,
+                                "host": "Bat (Myotis evotis)",
+                                "num_date": 2011.6187542778919,
+                                "num_date_confidence": [
+                                  2011.6187542778919,
+                                  2011.6187542778919
+                                ],
+                                "raw_date": "2011-08-14"
+                              },
+                              "branch_length": 0.00524706,
+                              "clade": 46,
+                              "muts": [
+                                "G99A",
+                                "G123A",
+                                "A666G",
+                                "G834A",
+                                "C849T",
+                                "A1122G",
+                                "T1182C",
+                                "C1197T",
+                                "G1212A",
+                                "A1338G"
+                              ],
+                              "strain": "KY203156",
+                              "yvalue": 18
+                            },
+                            {
+                              "aa_muts": {
+                                "RABVgp1": [
+                                  "A334D",
+                                  "V379L"
+                                ]
+                              },
+                              "attr": {
+                                "accession": "KY203166",
+                                "clock_length": 0.005476888124317744,
+                                "country": "Canada",
+                                "country_confidence": {
+                                  "Canada": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2012-08-17",
+                                "div": 0.08690181605774772,
+                                "host": "Bat (Myotis evotis)",
+                                "num_date": 2012.6269678302533,
+                                "num_date_confidence": [
+                                  2012.6269678302533,
+                                  2012.6269678302533
+                                ],
+                                "raw_date": "2012-08-16"
+                              },
+                              "branch_length": 0.00547689,
+                              "clade": 47,
+                              "muts": [
+                                "T139C",
+                                "C156T",
+                                "C531T",
+                                "A636G",
+                                "C657T",
+                                "A813G",
+                                "C1013A",
+                                "A1065G",
+                                "C1128T",
+                                "G1147T"
+                              ],
+                              "strain": "KY203166",
+                              "yvalue": 17
+                            }
+                          ],
+                          "clade": 48,
+                          "muts": [
+                            "G204A"
+                          ],
+                          "strain": "NODE_0000027",
+                          "yvalue": 17.5
+                        }
+                      ],
+                      "clade": 49,
+                      "muts": [
+                        "A198G",
+                        "C304A",
+                        "C408T",
+                        "T460C",
+                        "C489T",
+                        "T597C",
+                        "C628T",
+                        "A846G",
+                        "T855C",
+                        "T966C",
+                        "T1044C"
+                      ],
+                      "strain": "NODE_0000026",
+                      "yvalue": 18.25
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0010516743055782075,
+                        "country": "Canada",
+                        "country_confidence": {
+                          "Canada": 0.9999999251677073
+                        },
+                        "country_entropy": 1.3026797695123398e-06,
+                        "date": "1939-07-13",
+                        "div": 0.07274410791785,
+                        "num_date": 1939.5326002564493,
+                        "num_date_confidence": [
+                          809.7051024118705,
+                          2010.3016153769604
+                        ]
+                      },
+                      "branch_length": 0.00105167,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "RABVgp1": [
+                              "M60L",
+                              "A84V"
+                            ]
+                          },
+                          "attr": {
+                            "accession": "KY203149",
+                            "clock_length": 0.01622951938713895,
+                            "country": "Canada",
+                            "country_confidence": {
+                              "Canada": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2010-09-23",
+                            "div": 0.08410325108003615,
+                            "host": "Bat (Corynorhinus townsendii)",
+                            "num_date": 2010.7282683093772,
+                            "num_date_confidence": [
+                              2010.7282683093772,
+                              2010.7282683093772
+                            ],
+                            "raw_date": "2010-09-23"
+                          },
+                          "branch_length": 0.01622952,
+                          "clade": 50,
+                          "muts": [
+                            "T60C",
+                            "C117T",
+                            "T139C",
+                            "A190C",
+                            "G204A",
+                            "T213C",
+                            "C263T",
+                            "C304A",
+                            "A363G",
+                            "C594T",
+                            "A678G",
+                            "G705A",
+                            "A774G",
+                            "C798T",
+                            "G1038A",
+                            "C1194T"
+                          ],
+                          "strain": "KY203149",
+                          "yvalue": 16
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0008242347598846032,
+                            "country": "Canada",
+                            "country_confidence": {
+                              "Canada": 0.9999999569335022
+                            },
+                            "country_entropy": 7.734947165421738e-07,
+                            "date": "1943-02-23",
+                            "div": 0.07344820486152355,
+                            "num_date": 1943.1483539311348,
+                            "num_date_confidence": [
+                              840.7207336674155,
+                              2010.3524595567476
+                            ]
+                          },
+                          "branch_length": 0.00082423,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 0.0011125352143447238,
+                                "country": "Canada",
+                                "country_confidence": {
+                                  "Canada": 0.9999998090829451
+                                },
+                                "country_entropy": 3.1446742736433676e-06,
+                                "date": "1948-01-10",
+                                "div": 0.07415230145998603,
+                                "num_date": 1948.0288242598156,
+                                "num_date_confidence": [
+                                  878.149635311175,
+                                  2010.7126915225674
+                                ]
+                              },
+                              "branch_length": 0.00111254,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "KY203158",
+                                    "clock_length": 0.01451945774817351,
+                                    "country": "Canada",
+                                    "country_confidence": {
+                                      "Canada": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2011-09-20",
+                                    "div": 0.09417872892638986,
+                                    "host": "Bat (Myotis evotis)",
+                                    "num_date": 2011.7227926078028,
+                                    "num_date_confidence": [
+                                      2011.7227926078028,
+                                      2011.7227926078028
+                                    ],
+                                    "raw_date": "2011-09-21"
+                                  },
+                                  "branch_length": 0.01451946,
+                                  "clade": 51,
+                                  "muts": [
+                                    "A72G",
+                                    "T231C",
+                                    "A303G",
+                                    "G339A",
+                                    "G360A",
+                                    "A378G",
+                                    "T435G",
+                                    "C507T",
+                                    "C531T",
+                                    "C543A",
+                                    "A588G",
+                                    "G615T",
+                                    "A666G",
+                                    "T765C",
+                                    "A777G",
+                                    "G843A",
+                                    "A924T",
+                                    "T930C",
+                                    "A1008G",
+                                    "T1011C",
+                                    "G1071A",
+                                    "G1101A",
+                                    "C1128A",
+                                    "A1131G",
+                                    "A1140G",
+                                    "A1260G",
+                                    "A1290G",
+                                    "C1326T"
+                                  ],
+                                  "strain": "KY203158",
+                                  "yvalue": 15
+                                },
+                                {
+                                  "aa_muts": {
+                                    "RABVgp1": [
+                                      "D110E"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "clock_length": 0.0028482260121280335,
+                                    "country": "Canada",
+                                    "country_confidence": {
+                                      "Canada": 0.9999993694163289
+                                    },
+                                    "country_entropy": 9.633184910946156e-06,
+                                    "date": "1960-07-10",
+                                    "div": 0.07768180505983928,
+                                    "num_date": 1960.5234243069294,
+                                    "num_date_confidence": [
+                                      1119.206300346757,
+                                      2010.7480819159266
+                                    ]
+                                  },
+                                  "branch_length": 0.00284823,
+                                  "children": [
+                                    {
+                                      "aa_muts": {
+                                        "RABVgp1": [
+                                          "S36L",
+                                          "T209A"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "accession": "KY203175",
+                                        "clock_length": 0.012142747626732026,
+                                        "country": "Canada",
+                                        "country_confidence": {
+                                          "Canada": 0.9999999999999999
+                                        },
+                                        "country_entropy": -9.99866855976916e-13,
+                                        "date": "2013-10-16",
+                                        "div": 0.09119378665710857,
+                                        "host": "Bat (Myotis californicus)",
+                                        "num_date": 2013.7912388774812,
+                                        "num_date_confidence": [
+                                          2013.7912388774812,
+                                          2013.7912388774812
+                                        ],
+                                        "raw_date": "2013-10-16"
+                                      },
+                                      "branch_length": 0.01214275,
+                                      "clade": 52,
+                                      "muts": [
+                                        "G54A",
+                                        "C119T",
+                                        "A147G",
+                                        "G249A",
+                                        "C315T",
+                                        "G459A",
+                                        "T474C",
+                                        "T570C",
+                                        "C600T",
+                                        "A637G",
+                                        "C864T",
+                                        "A996C",
+                                        "T1062C",
+                                        "G1095A",
+                                        "G1146A",
+                                        "A1158G",
+                                        "T1296C",
+                                        "T1317C",
+                                        "C1350T"
+                                      ],
+                                      "strain": "KY203175",
+                                      "yvalue": 14
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.004497068356157459,
+                                        "country": "Canada",
+                                        "country_confidence": {
+                                          "Canada": 0.999999472733315
+                                        },
+                                        "country_entropy": 8.149199414931572e-06,
+                                        "date": "1980-04-01",
+                                        "div": 0.08262968319121516,
+                                        "num_date": 1980.2511672091644,
+                                        "num_date_confidence": [
+                                          1483.3391518796525,
+                                          2010.7833368234872
+                                        ]
+                                      },
+                                      "branch_length": 0.00449707,
+                                      "children": [
+                                        {
+                                          "aa_muts": {
+                                            "RABVgp1": [
+                                              "V281I"
+                                            ]
+                                          },
+                                          "attr": {
+                                            "accession": "KY203155",
+                                            "clock_length": 0.007112376386932387,
+                                            "country": "Canada",
+                                            "country_confidence": {
+                                              "Canada": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2011-06-13",
+                                            "div": 0.08686673633427651,
+                                            "host": "Bat (Myotis yumanensis)",
+                                            "num_date": 2011.4517453798767,
+                                            "num_date_confidence": [
+                                              2011.4517453798767,
+                                              2011.4517453798767
+                                            ],
+                                            "raw_date": "2011-06-14"
+                                          },
+                                          "branch_length": 0.00711238,
+                                          "clade": 53,
+                                          "muts": [
+                                            "T45C",
+                                            "T387C",
+                                            "T768C",
+                                            "A846G",
+                                            "G853A",
+                                            "C1239T"
+                                          ],
+                                          "strain": "KY203155",
+                                          "yvalue": 13
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 0.004078841625863102,
+                                            "country": "Canada",
+                                            "country_confidence": {
+                                              "Canada": 0.9999998310486294
+                                            },
+                                            "country_entropy": 2.8035187256219322e-06,
+                                            "date": "1998-02-21",
+                                            "div": 0.08970570741956192,
+                                            "num_date": 1998.144232771262,
+                                            "num_date_confidence": [
+                                              1837.7343349832515,
+                                              2010.8186173853526
+                                            ]
+                                          },
+                                          "branch_length": 0.00407884,
+                                          "children": [
+                                            {
+                                              "aa_muts": {
+                                                "RABVgp1": [
+                                                  "C85S",
+                                                  "A195S"
+                                                ]
+                                              },
+                                              "attr": {
+                                                "accession": "KY203150",
+                                                "clock_length": 0.002889209083079572,
+                                                "country": "Canada",
+                                                "country_confidence": {
+                                                  "Canada": 0.9999999999999999
+                                                },
+                                                "country_entropy": -9.99866855976916e-13,
+                                                "date": "2010-10-26",
+                                                "div": 0.09323853918436044,
+                                                "host": "Bat (Myotis californicus)",
+                                                "num_date": 2010.8186173853526,
+                                                "num_date_confidence": [
+                                                  2010.8186173853526,
+                                                  2010.8186173853526
+                                                ],
+                                                "raw_date": "2010-10-26"
+                                              },
+                                              "branch_length": 0.00288921,
+                                              "clade": 54,
+                                              "muts": [
+                                                "T265A",
+                                                "A291G",
+                                                "G595T",
+                                                "G1146A",
+                                                "G1155A"
+                                              ],
+                                              "strain": "KY203150",
+                                              "yvalue": 12
+                                            },
+                                            {
+                                              "aa_muts": {
+                                                "RABVgp1": [
+                                                  "A334D",
+                                                  "E337D",
+                                                  "G342M"
+                                                ]
+                                              },
+                                              "attr": {
+                                                "accession": "KY203174",
+                                                "clock_length": 0.003561220645351885,
+                                                "country": "Canada",
+                                                "country_confidence": {
+                                                  "Canada": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2013-10-07",
+                                                "div": 0.09465574844231243,
+                                                "host": "Bat (Myotis californicus)",
+                                                "num_date": 2013.766598220397,
+                                                "num_date_confidence": [
+                                                  2013.766598220397,
+                                                  2013.766598220397
+                                                ],
+                                                "raw_date": "2013-10-07"
+                                              },
+                                              "branch_length": 0.00356122,
+                                              "clade": 55,
+                                              "muts": [
+                                                "T570G",
+                                                "T765C",
+                                                "C1013A",
+                                                "G1023T",
+                                                "G1036A",
+                                                "G1037T",
+                                                "A1068G"
+                                              ],
+                                              "strain": "KY203174",
+                                              "yvalue": 11
+                                            }
+                                          ],
+                                          "clade": 56,
+                                          "muts": [
+                                            "T180C",
+                                            "A342G",
+                                            "G522A",
+                                            "C657T",
+                                            "G801A",
+                                            "G810A",
+                                            "T897C",
+                                            "A1170G",
+                                            "T1218C",
+                                            "T1293C"
+                                          ],
+                                          "strain": "NODE_0000033",
+                                          "yvalue": 11.5
+                                        }
+                                      ],
+                                      "clade": 57,
+                                      "muts": [
+                                        "T78C",
+                                        "C232T",
+                                        "G705T",
+                                        "A774G",
+                                        "A1080G",
+                                        "C1299T",
+                                        "G1344A"
+                                      ],
+                                      "strain": "NODE_0000032",
+                                      "yvalue": 12.25
+                                    }
+                                  ],
+                                  "clade": 58,
+                                  "muts": [
+                                    "C342A",
+                                    "A381G",
+                                    "C628T",
+                                    "C804T",
+                                    "G996A"
+                                  ],
+                                  "strain": "NODE_0000031",
+                                  "yvalue": 13.125
+                                }
+                              ],
+                              "clade": 59,
+                              "muts": [
+                                "A1134G"
+                              ],
+                              "strain": "NODE_0000030",
+                              "yvalue": 14.0625
+                            },
+                            {
+                              "aa_muts": {
+                                "RABVgp1": [
+                                  "A84I",
+                                  "V179A",
+                                  "L374S",
+                                  "K417R"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.00893284449029865,
+                                "country": "Canada",
+                                "country_confidence": {
+                                  "Canada": 0.9999999314982392
+                                },
+                                "country_entropy": 1.198532641438364e-06,
+                                "date": "1982-05-02",
+                                "div": 0.08623954938197198,
+                                "num_date": 1982.3349629692134,
+                                "num_date_confidence": [
+                                  1639.8458603938286,
+                                  2010.4032645283614
+                                ]
+                              },
+                              "branch_length": 0.00893284,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0019109748322498196,
+                                    "country": "Canada",
+                                    "country_confidence": {
+                                      "Canada": 0.9999999206080077
+                                    },
+                                    "country_entropy": 1.377359216872185e-06,
+                                    "date": "1990-09-19",
+                                    "div": 0.08835719239163162,
+                                    "num_date": 1990.7180288240268,
+                                    "num_date_confidence": [
+                                      1751.0952207012808,
+                                      2010.43845686127
+                                    ]
+                                  },
+                                  "branch_length": 0.00191097,
+                                  "children": [
+                                    {
+                                      "aa_muts": {
+                                        "RABVgp1": [
+                                          "D4N",
+                                          "V379I"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "accession": "KY203157",
+                                        "clock_length": 0.004765705642531344,
+                                        "country": "Canada",
+                                        "country_confidence": {
+                                          "Canada": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2011-08-15",
+                                        "div": 0.09188788925593096,
+                                        "host": "Bat (Myotis lucifugus)",
+                                        "num_date": 2011.624229979466,
+                                        "num_date_confidence": [
+                                          2011.624229979466,
+                                          2011.624229979466
+                                        ],
+                                        "raw_date": "2011-08-16"
+                                      },
+                                      "branch_length": 0.00476571,
+                                      "clade": 60,
+                                      "muts": [
+                                        "G22A",
+                                        "C61T",
+                                        "A630G",
+                                        "C1005T",
+                                        "G1147A"
+                                      ],
+                                      "strain": "KY203157",
+                                      "yvalue": 10
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.0021663197259642704,
+                                        "country": "Canada",
+                                        "country_confidence": {
+                                          "Canada": 0.9999999427853443
+                                        },
+                                        "country_entropy": 1.0113503288476763e-06,
+                                        "date": "2000-03-21",
+                                        "div": 0.09117966339054423,
+                                        "num_date": 2000.2212418537658,
+                                        "num_date_confidence": [
+                                          1891.2721429187336,
+                                          2010.473648186174
+                                        ]
+                                      },
+                                      "branch_length": 0.00216632,
+                                      "children": [
+                                        {
+                                          "aa_muts": {
+                                            "RABVgp1": [
+                                              "D4S"
+                                            ]
+                                          },
+                                          "attr": {
+                                            "accession": "KY203147",
+                                            "clock_length": 0.002337103252025732,
+                                            "country": "Canada",
+                                            "country_confidence": {
+                                              "Canada": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2010-06-22",
+                                            "div": 0.094001984199923,
+                                            "host": "Bat (Myotis yumanensis)",
+                                            "num_date": 2010.473648186174,
+                                            "num_date_confidence": [
+                                              2010.473648186174,
+                                              2010.473648186174
+                                            ],
+                                            "raw_date": "2010-06-22"
+                                          },
+                                          "branch_length": 0.0023371,
+                                          "clade": 61,
+                                          "muts": [
+                                            "G22A",
+                                            "A23G",
+                                            "T897C",
+                                            "G1056A"
+                                          ],
+                                          "strain": "KY203147",
+                                          "yvalue": 9
+                                        },
+                                        {
+                                          "aa_muts": {
+                                            "RABVgp1": [
+                                              "N443S"
+                                            ]
+                                          },
+                                          "attr": {
+                                            "accession": "KY203164",
+                                            "clock_length": 0.0028235978076711936,
+                                            "country": "Canada",
+                                            "country_confidence": {
+                                              "Canada": 0.9999999999999999
+                                            },
+                                            "country_entropy": -9.99866855976916e-13,
+                                            "date": "2012-08-10",
+                                            "div": 0.09400213440271721,
+                                            "host": "Bat (Myotis yumanensis)",
+                                            "num_date": 2012.6078028747434,
+                                            "num_date_confidence": [
+                                              2012.6078028747434,
+                                              2012.6078028747434
+                                            ],
+                                            "raw_date": "2012-08-09"
+                                          },
+                                          "branch_length": 0.0028236,
+                                          "clade": 62,
+                                          "muts": [
+                                            "T45C",
+                                            "C285T",
+                                            "A1340G",
+                                            "C1350T"
+                                          ],
+                                          "strain": "KY203164",
+                                          "yvalue": 8
+                                        }
+                                      ],
+                                      "clade": 63,
+                                      "muts": [
+                                        "C645T",
+                                        "T867C",
+                                        "T879C",
+                                        "G1095A"
+                                      ],
+                                      "strain": "NODE_0000036",
+                                      "yvalue": 8.5
+                                    }
+                                  ],
+                                  "clade": 64,
+                                  "muts": [
+                                    "G105A",
+                                    "T807C",
+                                    "T1128A"
+                                  ],
+                                  "strain": "NODE_0000035",
+                                  "yvalue": 9.25
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0005491173393179036,
+                                    "country": "Canada",
+                                    "country_confidence": {
+                                      "Canada": 0.9999999990086835
+                                    },
+                                    "country_entropy": 2.1541277008393196e-08,
+                                    "date": "1984-09-28",
+                                    "div": 0.08694407240579766,
+                                    "num_date": 1984.7438313330642,
+                                    "num_date_confidence": [
+                                      1678.4914849315703,
+                                      2010.6739221261364
+                                    ]
+                                  },
+                                  "branch_length": 0.00054912,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "accession": "KY203162",
+                                        "clock_length": 0.006346158027207748,
+                                        "country": "Canada",
+                                        "country_confidence": {
+                                          "Canada": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2012-07-31",
+                                        "div": 0.09473586739952673,
+                                        "host": "Bat (Myotis yumanensis)",
+                                        "num_date": 2012.583162217659,
+                                        "num_date_confidence": [
+                                          2012.583162217659,
+                                          2012.583162217659
+                                        ],
+                                        "raw_date": "2012-07-31"
+                                      },
+                                      "branch_length": 0.00634616,
+                                      "clade": 65,
+                                      "muts": [
+                                        "T36C",
+                                        "C225T",
+                                        "T387C",
+                                        "A624G",
+                                        "G690T",
+                                        "T789C",
+                                        "C891T",
+                                        "C933T",
+                                        "C1164T",
+                                        "T1317C",
+                                        "C1350T"
+                                      ],
+                                      "strain": "KY203162",
+                                      "yvalue": 7
+                                    },
+                                    {
+                                      "aa_muts": {
+                                        "RABVgp1": [
+                                          "T42N",
+                                          "I84L",
+                                          "T90I"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "accession": "KY203184",
+                                        "clock_length": 0.007046878697318054,
+                                        "country": "Canada",
+                                        "country_confidence": {
+                                          "Canada": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2015-08-28",
+                                        "div": 0.09618308585266079,
+                                        "host": "Bat (Myotis yumanensis)",
+                                        "num_date": 2015.6570841889118,
+                                        "num_date_confidence": [
+                                          2015.6570841889118,
+                                          2015.6570841889118
+                                        ],
+                                        "raw_date": "2015-08-28"
+                                      },
+                                      "branch_length": 0.00704688,
+                                      "clade": 66,
+                                      "muts": [
+                                        "A63G",
+                                        "C137A",
+                                        "A183G",
+                                        "T219C",
+                                        "A262T",
+                                        "C281T",
+                                        "C304A",
+                                        "T597C",
+                                        "C609T",
+                                        "A918G",
+                                        "T966C",
+                                        "G1023A",
+                                        "T1329A"
+                                      ],
+                                      "strain": "KY203184",
+                                      "yvalue": 6
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.003523676789891359,
+                                        "country": "Canada",
+                                        "country_confidence": {
+                                          "Canada": 0.9999999999243353
+                                        },
+                                        "country_entropy": 1.8370167201991543e-09,
+                                        "date": "2000-03-14",
+                                        "div": 0.09118705479883188,
+                                        "num_date": 2000.2014993683674,
+                                        "num_date_confidence": [
+                                          1991.8888085409462,
+                                          2010.7091033538672
+                                        ]
+                                      },
+                                      "branch_length": 0.00352368,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "accession": "KY203148",
+                                            "clock_length": 0.0023952772304667402,
+                                            "country": "Canada",
+                                            "country_confidence": {
+                                              "Canada": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2010-09-16",
+                                            "div": 0.09189196157346785,
+                                            "host": "Bat (Myotis lucifugus)",
+                                            "num_date": 2010.7091033538672,
+                                            "num_date_confidence": [
+                                              2010.7091033538672,
+                                              2010.7091033538672
+                                            ],
+                                            "raw_date": "2010-09-16"
+                                          },
+                                          "branch_length": 0.00239528,
+                                          "clade": 67,
+                                          "muts": [
+                                            "C1314T"
+                                          ],
+                                          "strain": "KY203148",
+                                          "yvalue": 5
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 0.0012073479623746445,
+                                            "country": "Canada",
+                                            "country_confidence": {
+                                              "Canada": 0.9999999857328492
+                                            },
+                                            "country_entropy": 2.720055976529648e-07,
+                                            "date": "2005-06-30",
+                                            "div": 0.09189196157346785,
+                                            "num_date": 2005.4978943325782,
+                                            "num_date_confidence": [
+                                              1997.7990111743716,
+                                              2012.6132785763175
+                                            ]
+                                          },
+                                          "branch_length": 0.00120735,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "accession": "KY203165",
+                                                "clock_length": 0.0016219984963812598,
+                                                "country": "Canada",
+                                                "country_confidence": {
+                                                  "Canada": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2012-08-11",
+                                                "div": 0.09259686836571628,
+                                                "host": "Bat (Myotis keenii)",
+                                                "num_date": 2012.6132785763175,
+                                                "num_date_confidence": [
+                                                  2012.6132785763175,
+                                                  2012.6132785763175
+                                                ],
+                                                "raw_date": "2012-08-11"
+                                              },
+                                              "branch_length": 0.001622,
+                                              "clade": 68,
+                                              "muts": [
+                                                "T564C"
+                                              ],
+                                              "strain": "KY203165",
+                                              "yvalue": 4
+                                            },
+                                            {
+                                              "aa_muts": {
+                                                "RABVgp1": [
+                                                  "A334D"
+                                                ]
+                                              },
+                                              "attr": {
+                                                "accession": "KY203173",
+                                                "clock_length": 0.0018324799446063503,
+                                                "country": "Canada",
+                                                "country_confidence": {
+                                                  "Canada": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2013-07-15",
+                                                "div": 0.09259721619848696,
+                                                "host": "Bat (Myotis keenii)",
+                                                "num_date": 2013.536618754278,
+                                                "num_date_confidence": [
+                                                  2013.536618754278,
+                                                  2013.536618754278
+                                                ],
+                                                "raw_date": "2013-07-15"
+                                              },
+                                              "branch_length": 0.00183248,
+                                              "clade": 69,
+                                              "muts": [
+                                                "C1013A"
+                                              ],
+                                              "strain": "KY203173",
+                                              "yvalue": 3
+                                            }
+                                          ],
+                                          "clade": 70,
+                                          "muts": [
+                                            "C411T"
+                                          ],
+                                          "strain": "NODE_0000042",
+                                          "yvalue": 3.5
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 0.0012024003598953233,
+                                            "country": "Canada",
+                                            "country_confidence": {
+                                              "Canada": 0.9999999834737239
+                                            },
+                                            "country_entropy": 3.1264728400866867e-07,
+                                            "date": "2005-06-22",
+                                            "div": 0.09118705479883188,
+                                            "num_date": 2005.4761901862403,
+                                            "num_date_confidence": [
+                                              1993.2562748227192,
+                                              2012.7419575633128
+                                            ]
+                                          },
+                                          "branch_length": 0.0012024,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "accession": "KY203177",
+                                                "clock_length": 0.00208722799082792,
+                                                "country": "Canada",
+                                                "country_confidence": {
+                                                  "Canada": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2014-08-18",
+                                                "div": 0.09118705479883188,
+                                                "host": "Bat (Myotis yumanensis)",
+                                                "num_date": 2014.6324435318274,
+                                                "num_date_confidence": [
+                                                  2014.6324435318274,
+                                                  2014.6324435318274
+                                                ],
+                                                "raw_date": "2014-08-19"
+                                              },
+                                              "branch_length": 0.00208723,
+                                              "clade": 71,
+                                              "muts": [],
+                                              "strain": "KY203177",
+                                              "yvalue": 2
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "accession": "KY203169",
+                                                "clock_length": 0.0016562793177385161,
+                                                "country": "Canada",
+                                                "country_confidence": {
+                                                  "Canada": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2012-09-27",
+                                                "div": 0.09189196157346785,
+                                                "host": "Bat (Myotis yumanensis)",
+                                                "num_date": 2012.7419575633128,
+                                                "num_date_confidence": [
+                                                  2012.7419575633128,
+                                                  2012.7419575633128
+                                                ],
+                                                "raw_date": "2012-09-27"
+                                              },
+                                              "branch_length": 0.00165628,
+                                              "clade": 72,
+                                              "muts": [
+                                                "C1350T"
+                                              ],
+                                              "strain": "KY203169",
+                                              "yvalue": 1
+                                            }
+                                          ],
+                                          "clade": 73,
+                                          "muts": [],
+                                          "strain": "NODE_0000040",
+                                          "yvalue": 1.5
+                                        }
+                                      ],
+                                      "clade": 74,
+                                      "muts": [
+                                        "T78A",
+                                        "A165G",
+                                        "G537A",
+                                        "C628T",
+                                        "C784T",
+                                        "A975G"
+                                      ],
+                                      "strain": "NODE_0000039",
+                                      "yvalue": 3.25
+                                    }
+                                  ],
+                                  "clade": 75,
+                                  "muts": [
+                                    "C621T"
+                                  ],
+                                  "strain": "NODE_0000037",
+                                  "yvalue": 5.125
+                                }
+                              ],
+                              "clade": 76,
+                              "muts": [
+                                "G120A",
+                                "G262A",
+                                "C263T",
+                                "A291G",
+                                "C294T",
+                                "G339A",
+                                "T438C",
+                                "G480A",
+                                "C486T",
+                                "C489T",
+                                "T548C",
+                                "A771G",
+                                "T1045C",
+                                "C1128T",
+                                "T1133C",
+                                "C1234A",
+                                "A1262G",
+                                "A1266G"
+                              ],
+                              "strain": "NODE_0000034",
+                              "yvalue": 7.1875
+                            }
+                          ],
+                          "clade": 77,
+                          "muts": [
+                            "G63A"
+                          ],
+                          "strain": "NODE_0000029",
+                          "yvalue": 10.625
+                        }
+                      ],
+                      "clade": 78,
+                      "muts": [
+                        "C540T",
+                        "A1218T"
+                      ],
+                      "strain": "NODE_0000028",
+                      "yvalue": 13.3125
+                    }
+                  ],
+                  "clade": 79,
+                  "muts": [
+                    "T48C",
+                    "G93A",
+                    "G261A",
+                    "T1128C",
+                    "G1140A",
+                    "G1201A"
+                  ],
+                  "strain": "NODE_0000025",
+                  "yvalue": 15.78125
+                }
+              ],
+              "clade": 80,
+              "muts": [
+                "A39G",
+                "C78T",
+                "A87G",
+                "C102T",
+                "A237G",
+                "A328G",
+                "A355C",
+                "A399G",
+                "T486C",
+                "C658A",
+                "C693A",
+                "C702T",
+                "T705G",
+                "C765T",
+                "A810G",
+                "C861T",
+                "A915G",
+                "G1080A",
+                "G1113A",
+                "G1122A",
+                "A1137G",
+                "C1146G",
+                "G1149A",
+                "C1209T",
+                "T1215C",
+                "G1218A",
+                "G1221A",
+                "T1254C",
+                "G1260A",
+                "C1293T",
+                "A1323C"
+              ],
+              "strain": "NODE_0000009",
+              "yvalue": 21.5859375
+            }
+          ],
+          "clade": 81,
+          "muts": [
+            "C57T",
+            "G81A",
+            "T411C",
+            "A474T",
+            "T543C",
+            "G846A",
+            "C1170A"
+          ],
+          "strain": "NODE_0000010",
+          "yvalue": 27.73046875
+        }
+      ],
+      "clade": 82,
+      "muts": [
+        "C36T",
+        "T105G",
+        "C139T",
+        "C153T",
+        "A159G",
+        "G178A",
+        "A186C",
+        "C198A",
+        "T225C",
+        "C228T",
+        "C231T",
+        "A240T",
+        "A262G",
+        "A273T",
+        "A309G",
+        "G328A",
+        "C330T",
+        "A342C",
+        "G355A",
+        "A360G",
+        "G378A",
+        "C387T",
+        "A393G",
+        "C394T",
+        "C414T",
+        "T417G",
+        "C435T",
+        "C486T",
+        "T495C",
+        "G516A",
+        "A537G",
+        "C549A",
+        "G558A",
+        "T582C",
+        "T594C",
+        "T600C",
+        "T609C",
+        "G666A",
+        "C684T",
+        "C727T",
+        "C747T",
+        "A773G",
+        "C831T",
+        "A849C",
+        "C855T",
+        "T873C",
+        "C876T",
+        "C879T",
+        "C886T",
+        "G903A",
+        "C906T",
+        "T909G",
+        "C924A",
+        "T933C",
+        "T978G",
+        "C984T",
+        "C985T",
+        "A987G",
+        "G1006A",
+        "T1014C",
+        "T1017G",
+        "A1035T",
+        "C1041T",
+        "C1045T",
+        "A1050G",
+        "G1074T",
+        "A1095G",
+        "T1098C",
+        "G1125A",
+        "C1132T",
+        "A1152C",
+        "T1164C",
+        "C1182T",
+        "A1212G",
+        "A1221G",
+        "T1224A",
+        "C1255A",
+        "A1260G",
+        "G1263A",
+        "T1272C",
+        "T1314C",
+        "C1317T",
+        "C1320T",
+        "T1350C"
+      ],
+      "strain": "NODE_0000016",
+      "yvalue": 33.880859375
+    }
+  ],
+  "clade": 83,
+  "muts": [],
+  "strain": "NODE_0000000",
+  "yvalue": 38.5654296875
+}
